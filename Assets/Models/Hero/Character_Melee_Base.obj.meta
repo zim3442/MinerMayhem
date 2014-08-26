@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: 5af514ae91abc8c44afda2671dfa3812
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Character_Items_Melee_ARmour pasted__Belt
+    100002: Character_Items_Melee_ARmour pasted__Brace
+    100004: Character_Items_Melee_ARmour pasted__Dynamite1
+    100006: Character_Items_Melee_ARmour pasted__Helmet
+    100008: Character_Items_Melee_ARmour pasted__Left_Brace_Buckle1
+    100010: Character_Items_Melee_ARmour pasted__Left_pouch
+    100012: Character_Items_Melee_ARmour pasted__Rear_Brace
+    100014: Character_Items_Melee_ARmour pasted__Right_Pouch
+    100016: Character_Items_Melee_ARmour pasted__Top_Left_Pouch
+    100018: //RootNode
+    100020: Character_Melee_Comp_Character_LOD_Level_01 Body_Head
+    100022: Character_Melee_Comp_Character_LOD_Level_01 Goatee
+    100024: Character_Melee_Comp_Character_LOD_Level_01 Left_Arm
+    100026: Character_Melee_Comp_Character_LOD_Level_01 Left_Arm2
+    100028: Character_Melee_Comp_Character_LOD_Level_01 Left_hand1
+    100030: Character_Melee_Comp_Character_LOD_Level_01 Left_Leg
+    100032: Character_Melee_Comp_Character_LOD_Level_01 Left_Leg2
+    100034: Character_Melee_Comp_Character_LOD_Level_01 Moustache
+    100036: Character_Melee_Comp_Character_LOD_Level_01 Right_Shoe
+    100038: Character_Melee_Comp_Character_LOD_Level_01 Right_Shoe1
+    100040: Character_Melee_Comp_Character_LOD_Level_01 Shorts
+    100042: Left_hand_Character_Melee_Comp Character_LOD_Level_01
+    100044: pasted__Left_Brace_Buckle_Character_Items_Melee ARmour
+    400000: Character_Items_Melee_ARmour pasted__Belt
+    400002: Character_Items_Melee_ARmour pasted__Brace
+    400004: Character_Items_Melee_ARmour pasted__Dynamite1
+    400006: Character_Items_Melee_ARmour pasted__Helmet
+    400008: Character_Items_Melee_ARmour pasted__Left_Brace_Buckle1
+    400010: Character_Items_Melee_ARmour pasted__Left_pouch
+    400012: Character_Items_Melee_ARmour pasted__Rear_Brace
+    400014: Character_Items_Melee_ARmour pasted__Right_Pouch
+    400016: Character_Items_Melee_ARmour pasted__Top_Left_Pouch
+    400018: //RootNode
+    400020: Character_Melee_Comp_Character_LOD_Level_01 Body_Head
+    400022: Character_Melee_Comp_Character_LOD_Level_01 Goatee
+    400024: Character_Melee_Comp_Character_LOD_Level_01 Left_Arm
+    400026: Character_Melee_Comp_Character_LOD_Level_01 Left_Arm2
+    400028: Character_Melee_Comp_Character_LOD_Level_01 Left_hand1
+    400030: Character_Melee_Comp_Character_LOD_Level_01 Left_Leg
+    400032: Character_Melee_Comp_Character_LOD_Level_01 Left_Leg2
+    400034: Character_Melee_Comp_Character_LOD_Level_01 Moustache
+    400036: Character_Melee_Comp_Character_LOD_Level_01 Right_Shoe
+    400038: Character_Melee_Comp_Character_LOD_Level_01 Right_Shoe1
+    400040: Character_Melee_Comp_Character_LOD_Level_01 Shorts
+    400042: Left_hand_Character_Melee_Comp Character_LOD_Level_01
+    400044: pasted__Left_Brace_Buckle_Character_Items_Melee ARmour
+    2300000: Character_Items_Melee_ARmour pasted__Belt
+    2300002: Character_Items_Melee_ARmour pasted__Brace
+    2300004: Character_Items_Melee_ARmour pasted__Dynamite1
+    2300006: Character_Items_Melee_ARmour pasted__Helmet
+    2300008: Character_Items_Melee_ARmour pasted__Left_Brace_Buckle1
+    2300010: Character_Items_Melee_ARmour pasted__Left_pouch
+    2300012: Character_Items_Melee_ARmour pasted__Rear_Brace
+    2300014: Character_Items_Melee_ARmour pasted__Right_Pouch
+    2300016: Character_Items_Melee_ARmour pasted__Top_Left_Pouch
+    2300018: Character_Melee_Comp_Character_LOD_Level_01 Body_Head
+    2300020: Character_Melee_Comp_Character_LOD_Level_01 Goatee
+    2300022: Character_Melee_Comp_Character_LOD_Level_01 Left_Arm
+    2300024: Character_Melee_Comp_Character_LOD_Level_01 Left_Arm2
+    2300026: Character_Melee_Comp_Character_LOD_Level_01 Left_hand1
+    2300028: Character_Melee_Comp_Character_LOD_Level_01 Left_Leg
+    2300030: Character_Melee_Comp_Character_LOD_Level_01 Left_Leg2
+    2300032: Character_Melee_Comp_Character_LOD_Level_01 Moustache
+    2300034: Character_Melee_Comp_Character_LOD_Level_01 Right_Shoe
+    2300036: Character_Melee_Comp_Character_LOD_Level_01 Right_Shoe1
+    2300038: Character_Melee_Comp_Character_LOD_Level_01 Shorts
+    2300040: Left_hand_Character_Melee_Comp Character_LOD_Level_01
+    2300042: pasted__Left_Brace_Buckle_Character_Items_Melee ARmour
+    3300000: Character_Items_Melee_ARmour pasted__Belt
+    3300002: Character_Items_Melee_ARmour pasted__Brace
+    3300004: Character_Items_Melee_ARmour pasted__Dynamite1
+    3300006: Character_Items_Melee_ARmour pasted__Helmet
+    3300008: Character_Items_Melee_ARmour pasted__Left_Brace_Buckle1
+    3300010: Character_Items_Melee_ARmour pasted__Left_pouch
+    3300012: Character_Items_Melee_ARmour pasted__Rear_Brace
+    3300014: Character_Items_Melee_ARmour pasted__Right_Pouch
+    3300016: Character_Items_Melee_ARmour pasted__Top_Left_Pouch
+    3300018: Character_Melee_Comp_Character_LOD_Level_01 Body_Head
+    3300020: Character_Melee_Comp_Character_LOD_Level_01 Goatee
+    3300022: Character_Melee_Comp_Character_LOD_Level_01 Left_Arm
+    3300024: Character_Melee_Comp_Character_LOD_Level_01 Left_Arm2
+    3300026: Character_Melee_Comp_Character_LOD_Level_01 Left_hand1
+    3300028: Character_Melee_Comp_Character_LOD_Level_01 Left_Leg
+    3300030: Character_Melee_Comp_Character_LOD_Level_01 Left_Leg2
+    3300032: Character_Melee_Comp_Character_LOD_Level_01 Moustache
+    3300034: Character_Melee_Comp_Character_LOD_Level_01 Right_Shoe
+    3300036: Character_Melee_Comp_Character_LOD_Level_01 Right_Shoe1
+    3300038: Character_Melee_Comp_Character_LOD_Level_01 Shorts
+    3300040: Left_hand_Character_Melee_Comp Character_LOD_Level_01
+    3300042: pasted__Left_Brace_Buckle_Character_Items_Melee ARmour
+    4300000: Character_Items_Melee_ARmour pasted__Belt
+    4300002: Character_Items_Melee_ARmour pasted__Brace
+    4300004: Character_Items_Melee_ARmour pasted__Dynamite1
+    4300006: Character_Items_Melee_ARmour pasted__Helmet
+    4300008: Character_Items_Melee_ARmour pasted__Left_Brace_Buckle1
+    4300010: Character_Items_Melee_ARmour pasted__Left_pouch
+    4300012: Character_Items_Melee_ARmour pasted__Rear_Brace
+    4300014: Character_Items_Melee_ARmour pasted__Right_Pouch
+    4300016: Character_Items_Melee_ARmour pasted__Top_Left_Pouch
+    4300018: Character_Melee_Comp_Character_LOD_Level_01 Body_Head
+    4300020: Character_Melee_Comp_Character_LOD_Level_01 Goatee
+    4300022: Character_Melee_Comp_Character_LOD_Level_01 Left_Arm
+    4300024: Character_Melee_Comp_Character_LOD_Level_01 Left_Arm2
+    4300026: Character_Melee_Comp_Character_LOD_Level_01 Left_hand1
+    4300028: Character_Melee_Comp_Character_LOD_Level_01 Left_Leg
+    4300030: Character_Melee_Comp_Character_LOD_Level_01 Left_Leg2
+    4300032: Character_Melee_Comp_Character_LOD_Level_01 Moustache
+    4300034: Character_Melee_Comp_Character_LOD_Level_01 Right_Shoe
+    4300036: Character_Melee_Comp_Character_LOD_Level_01 Right_Shoe1
+    4300038: Character_Melee_Comp_Character_LOD_Level_01 Shorts
+    4300040: Left_hand_Character_Melee_Comp Character_LOD_Level_01
+    4300042: pasted__Left_Brace_Buckle_Character_Items_Melee ARmour
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
