@@ -1,9 +1,7 @@
-[Aa]ssets/Materials/
-[Aa]ssets/Materials.meta
-[Aa]ssets/Models/
-[Aa]ssets/Models.meta
-[Aa]ssets/Textures/
-[Aa]ssets/Textures.meta
+# Specific Files
+[Aa]ssets/3rd-[Pp]arty/[Uu]nity[Vv][Ss]/
+
+# Unity Folders
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
@@ -17,4 +15,4 @@
 /*.userprefs
 /*.pidb
 /*.booproj
-/*.DotSettings
+/*.[Dd]ot[Ss]ettings
