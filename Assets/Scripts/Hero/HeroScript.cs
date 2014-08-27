@@ -5,6 +5,7 @@ public class HeroScript : MonoBehaviour {
 
     private NavMeshAgent m_AgentHandle = null;
     public GameObject m_ClickEffectPREFAB = null;
+    public GameObject m_ShieldEffectPREFAB = null;
     private float m_AttackRangeMaxDist = 2.0f;
 
 	// Use this for initialization
@@ -15,6 +16,17 @@ public class HeroScript : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () 
+    {
+        PrimaryClickCheck();
+
+        if (Input.GetKeyDown(KeyCode.Alpha1))
+        {
+            GameObject a_ShieldEffect = Instantiate(m_ShieldEffectPREFAB) as GameObject;
+            a_ShieldEffect.transform.parent = gameObject.transform;
+        }
+	}
+
+    private void PrimaryClickCheck()
     {
         if (Input.GetMouseButtonDown(0))
         {
@@ -28,7 +40,7 @@ public class HeroScript : MonoBehaviour {
                     m_AgentHandle.SetDestination(hit.collider.gameObject.transform.position);
                     m_AgentHandle.stoppingDistance = m_AttackRangeMaxDist;
                 }
-                else 
+                else
                 {
                     m_AgentHandle.stoppingDistance = 0.0f;
 
@@ -38,6 +50,6 @@ public class HeroScript : MonoBehaviour {
                     a_ClickEffect.transform.position = hit.point;
                 }
             }
-        }
-	}
+        }    
+    }
 }
